@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-05-16T12:58:25.278013",
+  "payload_counts": {
+    "sqli": 90,
+    "xss": 211,
+    "xxe": 0,
+    "dirs": 4761,
+    "passwords": 5000
+  },
+  "cve_count": 50,
+  "version": "safe-db-20260516125825"
+}
